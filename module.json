@@ -1,0 +1,50 @@
+{
+  "id": "cosmere-rpg-bridge-nine-beta-adventure",
+  "title": "Cosmere RPG - Bridge Nine Beta Adventure",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "cosmere-rpg",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "The complete Bridge Nine adventure for the Beta of the Cosmere RPG by Brotherwise Games and Dragonsteel. All Art Assets are from the Beta Release or otherwiese owened/licenced by Brotherwise Games. IP Brandon Sanderson and Dragonsteel",
+  "authors": [
+    {
+      "name": "DocSun",
+      "discord": "Doc_Sun",
+      "flags": {}
+    },
+    {
+      "name": "Brotherwise Games",
+      "flags": {}
+    },
+    {
+      "name": "Dragonsteel",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "bridge-nine",
+      "label": "Bridge Nine",
+      "path": "packs/bridge-nine",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "cosmere-rpg",
+      "flags": {}
+    }
+  ],
+"manifest": "https://raw.githubusercontent.com/Doc-Sun/Bridge_Nine_Adventure_CosmereRPG/main/module.json",
+"download": "https://github.com/Doc-Sun/Bridge_Nine_Adventure_CosmereRPG/releases/download/v1.0.0/cosmere-rpg-bridge-nine-beta-adventure-v1.0.0.zip"
+}
