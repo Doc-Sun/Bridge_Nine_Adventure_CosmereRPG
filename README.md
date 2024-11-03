@@ -9,8 +9,8 @@ Paste the following URL in the Manifest URL field:
 
 Click Install.
 Activate the module in your world settings.
-Check you compendium for the adventure and open it.
-When Propmpted choose to import adventure. 
+Check your compendium for the adventure and open it.
+When prompted choose to import adventure. 
 
     
 Modules Needed to play Cosmere RPG System and Playtest Materials 
